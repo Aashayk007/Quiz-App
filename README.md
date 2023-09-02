@@ -1,7 +1,7 @@
 # Quiz-App
 A versatile quiz app using Flutter framework, showcasing technical prowess and user-centric design. Features include an intuitive interface, diverse multiple- choice questions, real-time scoring, and a timed challenge.
 
-# output
+# Output
 <img width="352" alt="Screenshot 2023-09-02 at 2 43 04 PM" src="https://github.com/Aashayk007/Quiz-App/assets/121026691/75f7b6b3-a607-40a5-bcab-8d063ca221d1">
 
 <img width="393" alt="Screenshot 2023-09-02 at 2 42 51 PM" src="https://github.com/Aashayk007/Quiz-App/assets/121026691/47c6a6d4-3021-4d7e-a56f-1bc38c89e68b">
